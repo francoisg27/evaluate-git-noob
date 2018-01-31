@@ -1,4 +1,8 @@
 ﻿
 Réponse exercice 1 = ee90503
 
+<<<<<<< HEAD
 Réponse exercice 2 = 
+=======
+Réponse exercice 2 = 82ea678
+>>>>>>> emojiAmour
